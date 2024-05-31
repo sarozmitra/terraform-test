@@ -2,3 +2,6 @@
 *.tfstate
 *.tfstate.*
 *.tfvars
+Note.txt
+.DS_Store
+crash.log
